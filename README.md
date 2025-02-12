@@ -1,6 +1,23 @@
-# React + Vite
+# Tour Site with React and Material UI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
+# Go to Project Directory and run the below command
+npm install
+
+# Install Material UI by below command
+
+npm install @mui/material @emotion/react @emotion/styled
+
+# Install Material UI Icons by below command
+
+npm install @mui/icons-material
+
+# Start the project
+
+npm run dev
+
 
 Currently, two official plugins are available:
 
