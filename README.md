@@ -30,3 +30,6 @@ Currently, two official plugins are available:
 <img src="./src/assets/TourSite1.png" />
 <img src="./src/assets/TourSite2.png" />
 <img src="./src/assets/TourSite3.png" />
+
+## Dark Theme
+<img src="./src/assets/TourSite-Dark.png" />
